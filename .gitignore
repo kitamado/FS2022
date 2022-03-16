@@ -1,4 +1,5 @@
 /deep-learning/homework01/mnist/*
-/deep-learning/homework01/.ipynb_checkpoints/*
+/deep-learning/*/.ipynb_checkpoints/*
 C++programing/*/build/
 /AI-for-medical-time-series/.ipynb_checkpoints/
+/deep-learning/*/datasets/
