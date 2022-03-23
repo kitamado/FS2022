@@ -2,5 +2,5 @@
 /deep-learning/*/.ipynb_checkpoints/*
 C++programing/*/build/
 /AI-for-medical-time-series/*/.ipynb_checkpoints/
-/AI-for-medical-time-series//sample_audvis_raw.npy
+/AI-for-medical-time-series/sample_audvis_raw.npy
 /deep-learning/*/datasets/
