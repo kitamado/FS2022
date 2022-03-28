@@ -86,6 +86,7 @@ int Vector::pop_back()
 
 void Vector::clear()
 {   
+    delete [] m_data;
     m_data = nullptr;
     m_size = 0; 
 }
